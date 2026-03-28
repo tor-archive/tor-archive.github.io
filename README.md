@@ -1,0 +1,1 @@
+The most comprehensive and up-to-date TOR node intelligence feed available. Every IP that has ever operated as a TOR relay is indexed with full historical timeline, node role, geolocation, and AS attribution. Updated automatically every 3 hours from live TOR network data since 2024, with 212,000+ unique IPs tracked across exit, guard, and middle relay roles.
