@@ -6,7 +6,7 @@ The most comprehensive historical TOR node intelligence feed available. Every IP
 
 ## Live Dashboard
 
-**[tor-node-archive.html](tor-node-archive.html)** - open in any browser, zero dependencies, loads the JSON feed client-side.
+**[index.html](index.html)** - open in any browser, zero dependencies, loads the JSON feed client-side.
 
 ### Features
 
